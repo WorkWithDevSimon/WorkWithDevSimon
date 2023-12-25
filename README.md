@@ -4,12 +4,12 @@
 
 ###;Sobre mí
 
-💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 Actualmente estudio Ingeniería en Informática y me gradué como Analista Programador en la Universidad INACAP de Chile.
-🌱 Mi enfoque actual se centra en el aprendizaje de Inteligencia Artificial, Diseño de Bases de Datos y el desarrollo tanto Frontend como Backend. Además, estoy explorando activamente el fascinante mundo del desarrollo de aplicaciones móviles como web.
-✍️En mi tiempo libre, me sumerjo en la lectura y el aprendizaje, explorando el diseño gráfico, profundizando en el fascinante mundo de las bases de datos y perfeccionando mis habilidades para crear páginas web y aplicaciones móviles. Busco constantemente oportunidades para aprender y crecer en estas áreas, convirtiendo mis pasatiempos en proyectos apasionantes.
-💬  Si estás buscando un programador versátil tanto en Frontend como en Backend, con experiencia en desarrollo de aplicaciones móviles, manejo de bases de datos y creación de páginas web, ¡no dudes en contactarme! Estoy disponible para colaboraciones, consultas y para entablar conversaciones interesantes sobre proyectos innovadores.
-✉️ Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a [simonsantibanez16@gmail.com](mailto:simonsantibanez16@gmail.com). Estaré encantado de responder tan pronto como sea posible.
+💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
+🎓 &nbsp; Actualmente estudio Ingeniería en Informática y me gradué como Analista Programador en la Universidad INACAP de Chile.
+🌱 &nbsp; Mi enfoque actual se centra en el aprendizaje de Inteligencia Artificial, Diseño de Bases de Datos y el desarrollo tanto Frontend como Backend. Además, estoy explorando activamente el fascinante mundo del desarrollo de aplicaciones móviles como web.
+✍️ &nbsp;En mi tiempo libre, me sumerjo en la lectura y el aprendizaje, explorando el diseño gráfico, profundizando en el fascinante mundo de las bases de datos y perfeccionando mis habilidades para crear páginas web y aplicaciones móviles. Busco constantemente oportunidades para aprender y crecer en estas áreas, convirtiendo mis pasatiempos en proyectos apasionantes.
+💬 &nbsp;  Si estás buscando un programador versátil tanto en Frontend como en Backend, con experiencia en desarrollo de aplicaciones móviles, manejo de bases de datos y creación de páginas web, ¡no dudes en contactarme! Estoy disponible para colaboraciones, consultas y para entablar conversaciones interesantes sobre proyectos innovadores.
+✉️ &nbsp; Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a [simonsantibanez16@gmail.com](mailto:simonsantibanez16@gmail.com). Estaré encantado de responder tan pronto como sea posible.
 
 <img alt="Código Nocturno" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
