@@ -1,6 +1,8 @@
 <p align="center">
   <img width="700" src="https://wallpapercosmos.com/w/full/1/e/d/1143164-3840x2160-desktop-4k-robot-background-image.jpg" alt="Saludo">
 </p>
+<h1 style="font-size: 36;">¡Hola! Soy Simo Santibáñez</h1>
+
  
 ### Sobre mí
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
