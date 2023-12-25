@@ -1,5 +1,6 @@
-
-<img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+[![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+](https://i.gifer.com/TcoK.gif)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -62,6 +63,9 @@
 </p>
 
 -----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+
+Last Edited on: 11/12/2020
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 11/12/2020
