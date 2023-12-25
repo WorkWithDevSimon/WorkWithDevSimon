@@ -1,11 +1,8 @@
 <p align="center">
   <img width="900" src="https://wallpapercosmos.com/w/full/1/e/d/1143164-3840x2160-desktop-4k-robot-background-image.jpg" alt="Saludo">
 </p>
-<h1># ¡Hola! Soy Simo Santibáñez
- </h1>
- 
+<h1 style="font-size: 36px;">¡Hola! Soy Simo Santibáñez</h1>
 ### Sobre mí
-
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp; Actualmente estudio Ingeniería en Informática y me gradué como Analista Programador en la Universidad INACAP de Chile.\
 🌱 &nbsp; Mi enfoque actual se centra en el aprendizaje de Inteligencia Artificial, Diseño de Bases de Datos y el desarrollo tanto Frontend como Backend. Además, estoy explorando activamente el fascinante mundo del desarrollo de aplicaciones móviles y web.\
