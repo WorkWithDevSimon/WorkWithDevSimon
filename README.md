@@ -1,5 +1,6 @@
-![Saludo](https://i.gifer.com/TcoK.gif)
-
+<p align="center">
+  <img width="600" src="https://i.gifer.com/TcoK.gif" alt="Saludo">
+</p>
 # ¡Hola! Soy Simo Santibáñez
 
 ### Sobre mí
