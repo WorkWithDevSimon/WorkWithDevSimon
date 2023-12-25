@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://wallpapercosmos.com/w/full/1/e/d/1143164-3840x2160-desktop-4k-robot-background-image.jpg" alt="Saludo">
+  <img width="900" src="https://wallpapercosmos.com/w/full/1/e/d/1143164-3840x2160-desktop-4k-robot-background-image.jpg" alt="Saludo">
 </p>
 # ¡Hola! Soy Simo Santibáñez
 
