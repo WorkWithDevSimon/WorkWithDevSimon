@@ -1,5 +1,4 @@
-[![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-](https://i.gifer.com/TcoK.gif)
+
 <img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
