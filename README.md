@@ -36,11 +36,15 @@
     <br>
     Mi Instagram
   </a>
-    <a href="https://www.instagram.com/s_m_n_s_z/">
+  
+  
+</div>
+<div style="text-align: center;">
+   <a href="https://www.instagram.com/s_m_n_s_z/">
     <img src="ruta_de_la_imagen_de_Gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
     <br>
   Mi Gmail
     </a>
-  
 </div>
+
 
