@@ -1,10 +1,10 @@
 
 <div style="text-align: center;">
-  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 500px; width: 80%; height: auto;">
 </div>
 
 
-<h1 style="font-size: 36px;text-align: center;">¡Hola! Soy Simon Santibáñez</h1>
+<h1 style="font-size: 36px;>¡Hola! Soy Simon Santibáñez</h1>
  
 ### Sobre mí
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
@@ -29,7 +29,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 ### ⚙️ &nbsp;Estadísticas en GitHub
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <div style="text-align: center;">
