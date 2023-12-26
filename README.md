@@ -3,40 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f8f8f8;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      text-align: center;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    h1 {
-      font-size: 36px;
-      color: #3498db;
-    }
-    h2 {
-      color: #3498db;
-    }
-    p {
-      line-height: 1.6;
-    }
-    .technologies img {
-      width: 40px;
-      margin: 5px;
-    }
-    .contact-icons a {
-      margin: 0 10px;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -92,3 +59,4 @@
 
 </body>
 </html>
+
