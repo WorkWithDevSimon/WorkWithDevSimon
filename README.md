@@ -1,6 +1,6 @@
 
 <div>
-  <img  alieng="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width: 600px;" />
+  <img  alieng="center" src="https://wallpapercave.com/wp/wp7864690.jpg" alt="adam-pw" style="width: 600px;" />
 </div>
 
 <h1 style="font-size: 36px;">¡Hola! Soy Simon Santibáñez</h1>
