@@ -8,7 +8,7 @@
 <body>
 
 <div class="container">
-  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen">
+  <img src="https://i.pinimg.com/originals/d3/27/63/d327635099eee0bd6f192b6fd9bd5757.gif" alt="Imagen">
   <h1>¡Hola! Soy Simon Santibáñez</h1>
   
   <h2>Sobre mí</h2>
