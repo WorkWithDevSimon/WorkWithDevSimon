@@ -32,8 +32,7 @@
 
 <div style="text-align: center;">
  <i>Contactame:</i><br>
-<a href="www.linkedin.com/in/simon-santibañez-6bb6a12a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
+<a href="https://www.linkedin.com/in/simon-santiba%C3%B1ez-6bb6a12a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/s_m_n_s_z/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
