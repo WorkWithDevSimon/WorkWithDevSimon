@@ -1,7 +1,8 @@
 
-<div>
-  <img  alieng="center" src="https://wallpapercave.com/wp/wp7864690.jpg" alt="adam-pw" style="width: 600px;" />
+<div style="text-align: center;">
+  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 700px; width: 100%; height: auto;">
 </div>
+
 
 <h1 style="font-size: 36px;">¡Hola! Soy Simon Santibáñez</h1>
  
