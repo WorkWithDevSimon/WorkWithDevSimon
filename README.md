@@ -41,8 +41,11 @@
     <br>
     Mi Instagram
   </a>
-      <a href="mailto:simonsantibanez16@gmail.com"><img src="https://img.shields.io/badge/-simonsantibanez16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>Mi Gmail</a>
-
+    <a href="https://www.instagram.com/s_m_n_s_z/">
+    <img src="ruta_de_la_imagen_de_Gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
+    <br>
+  Mi Gmail
+    </a>
   
 </div>
 
