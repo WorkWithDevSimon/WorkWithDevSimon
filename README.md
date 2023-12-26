@@ -1,10 +1,10 @@
 
 <div style="text-align: center;">
-  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 700px; width: 100%; height: auto;">
+  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 500px; width: 100%; height: auto;">
 </div>
 
 
-<h1 style="font-size: 36px;">¡Hola! Soy Simon Santibáñez</h1>
+<h1 style="font-size: 36px;text-align: center;">¡Hola! Soy Simon Santibáñez</h1>
  
 ### Sobre mí
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
