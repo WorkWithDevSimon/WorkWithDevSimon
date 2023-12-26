@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <div class="container">
-  <img src="https://i.pinimg.com/originals/d3/27/63/d327635099eee0bd6f192b6fd9bd5757.gif" alt="Imagen">
+  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="Imagen">
   <h1>¡Hola! Soy Simon Santibáñez</h1>
   
   <h2>Sobre mí</h2>
@@ -40,15 +39,6 @@
     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20">
     <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter">
   </div>
-  
-  <h2>Estadísticas en GitHub</h2>
-  <p align="center">
-    <a href="https://github.com/AVS1508">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
-  
   <h2>Contactame:</h2>
   <div class="contact-icons">
     <a href="https://www.linkedin.com/in/simon-santiba%C3%B1ez-6bb6a12a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
