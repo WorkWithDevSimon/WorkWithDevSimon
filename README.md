@@ -36,9 +36,5 @@
 </p>
 
 <div style="text-align: center;">
-    <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-TuUsuario-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:simonsantibanez16@gmail.com"><img src="https://img.shields.io/badge/-simonsantibanez16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-    <p>Este es mi Instagram: <span style="font-weight: bold;">s_m_n_s_z</span> y este es mi LinkedIn: <span style="font-weight: bold;">Simon Santibañez</span></p>
-</div>
-
-
+  <a href="https://www.instagram.com/s_m_n_s_z/">Instagram</a>
+ </div>
