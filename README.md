@@ -31,20 +31,22 @@
 
 
 <div style="text-align: center;">
-  <a href="https://www.instagram.com/s_m_n_s_z/">
-    <img src="ruta_de_la_imagen_de_instagram.png" alt="Instagram" style="width: 50px; height: 50px;">
+  <a href="https://www.instagram.com/s_m_n_s_z/" style="text-decoration: none; color: #333;">
+    <img src="ruta_de_la_imagen_de_instagram.png" alt="Instagram" style="width: 50px; height: 50px; border-radius: 50%;">
     <br>
     Mi Instagram
   </a>
-  
-  
-</div>
-<div style="text-align: center;">
-   <a href="https://www.instagram.com/s_m_n_s_z/">
-    <img src="ruta_de_la_imagen_de_Gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
+  <br><br>
+  <a href="mailto:tuemail@example.com" style="text-decoration: none; color: #333;">
+    <img src="ruta_de_la_imagen_de_Gmail.png" alt="Gmail" style="width: 50px; height: 50px; border-radius: 50%;">
     <br>
-  Mi Gmail
-    </a>
+    Mi Gmail
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/simon-santibañez-6bb6a12a4" style="text-decoration: none; color: #333;">
+    <img src="ruta_de_la_imagen_de_Linkedin.png" alt="Linkedin" style="width: 50px; height: 50px; border-radius: 50%;">
+    <br>
+    Mi Linkedin
+  </a>
 </div>
-
 
