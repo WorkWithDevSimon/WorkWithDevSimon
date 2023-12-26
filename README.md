@@ -1,9 +1,4 @@
 
-<div style="text-align: center;">
-  <img src="https://wallpapercave.com/wp/wp7864690.jpg" alt="Imagen" style="max-width: 500px; width: 80%; height: auto;">
-</div>
-
-
 <h1 style="font-size: 36px;>¡Hola! Soy Simon Santibáñez</h1>
  
 ### Sobre mí
