@@ -37,18 +37,11 @@
 
 ### 🤝🏻 &nbsp;Conéctate conmigo
 
-<p align="center">
-<a href="https://www.tuweb.com"><img src="https://img.shields.io/badge/-tuweb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-TuUsuario-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tuemail@example.com"><img src="https://img.shields.io/badge/-tuemail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- Otros enlaces de redes sociales -->
-</p>
+<div style="text-align: center;">
+    <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/-TuUsuario-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:simonsantibanez16@gmail.com"><img src="https://img.shields.io/badge/-simonsantibanez16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+
+<p>Este es mi Instagram: <a href="https://www.instagram.com/s_m_n_s_z/">https://www.instagram.com/s_m_n_s_z/</a> y este es mi LinkedIn: <a href="https://www.linkedin.com/in/simon-santibañez-6bb6a12a4">www.linkedin.com/in/simon-santibañez-6bb6a12a4</a></p>
 
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
