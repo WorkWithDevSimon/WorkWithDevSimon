@@ -28,12 +28,7 @@
 
 ### ⚙️ &nbsp;Estadísticas en GitHub
 
-<p align="center">
-<a href="https://github.com/tuusuario">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuusuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 <div style="text-align: center;">
   <a href="https://www.instagram.com/s_m_n_s_z/">
