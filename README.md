@@ -1,7 +1,11 @@
- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
- 
-<h1 style="font-size: 36;">¡Hola! Soy Simo Santibáñez</h1>
+<p>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width: 600px;" />
+</p>
 
+<h1 style="font-size: 36px;">¡Hola! Soy Simon Santibáñez</h1>
+
+ 
+ 
  
 ### Sobre mí
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
