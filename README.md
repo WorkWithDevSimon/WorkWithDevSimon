@@ -37,7 +37,6 @@
     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20">
-    <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter">
   </div>
   <h2>Contactame:</h2>
   <div class="contact-icons">
