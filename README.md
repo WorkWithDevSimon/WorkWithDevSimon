@@ -15,14 +15,8 @@
     💡 &nbsp; Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.<br>
     🎓 &nbsp; Me gradué como Analista Programador en la Universidad INACAP de Chile y actualmente curso Ingeniería en Informática.<br>
     🌱 &nbsp; Mi enfoque actual se centra en el aprendizaje de Inteligencia Artificial, Diseño de Bases de Datos y desarrollo tanto Frontend como Backend. Además, estoy explorando activamente el fascinante mundo del desarrollo de aplicaciones móviles y web.<br>
-    ✍️ &nbsp; En mi tiempo libre, me sumerjo en la lectura y el aprendizaje, explorando el diseño gráfico, profundizando en el fascinante mundo de las bases de datos y perfeccionando mis habilidades para crear páginas web y aplicaciones móviles.
-  </p>
-  
-  <p>
-    💬 &nbsp; Si buscas un programador versátil tanto en Frontend como en Backend, con experiencia en desarrollo de aplicaciones móviles, manejo de bases de datos y creación de páginas web, ¡no dudes en contactarme! Estoy disponible para colaboraciones, consultas y para entablar conversaciones interesantes sobre proyectos innovadores.
-  </p>
-  
-  <p>
+    ✍️ &nbsp; En mi tiempo libre, me sumerjo en la lectura y el aprendizaje, explorando el diseño gráfico, profundizando en el fascinante mundo de las bases de datos y perfeccionando mis habilidades para crear páginas web y aplicaciones móviles.<br>
+    💬 &nbsp; Si buscas un programador versátil tanto en Frontend como en Backend, con experiencia en desarrollo de aplicaciones móviles, manejo de bases de datos y creación de páginas web, ¡no dudes en contactarme! Estoy disponible para colaboraciones, consultas y para entablar conversaciones interesantes sobre proyectos innovadores.<br>
     ✉️ &nbsp; Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a <a href="mailto:simonsantibanez16@gmail.com">simonsantibanez16@gmail.com</a>. Estaré encantado de responder tan pronto como sea posible.
   </p>
   
