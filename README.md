@@ -13,7 +13,7 @@
   <h2>Sobre mí</h2>
   <p>
     💡 &nbsp; Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.<br>
-    🎓 &nbsp; Actualmente estudio Ingeniería en Informática y me gradué como Analista Programador en la Universidad INACAP de Chile.<br>
+    🎓 &nbsp; Me gradué como Analista Programador en la Universidad INACAP de Chile y actualmente curso Ingeniería en Informática.
     🌱 &nbsp; Mi enfoque actual se centra en el aprendizaje de Inteligencia Artificial, Diseño de Bases de Datos y desarrollo tanto Frontend como Backend. Además, estoy explorando activamente el fascinante mundo del desarrollo de aplicaciones móviles y web.<br>
     ✍️ &nbsp; En mi tiempo libre, me sumerjo en la lectura y el aprendizaje, explorando el diseño gráfico, profundizando en el fascinante mundo de las bases de datos y perfeccionando mis habilidades para crear páginas web y aplicaciones móviles.
   </p>
